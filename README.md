@@ -89,5 +89,5 @@ u | file with helper functions for conversion functions
 
 * [Holberton School](https://www.holbertonschool.com/)
 * [C library function - printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm)
-* The C Programming Language by Brian Kernighan
+* [The C Programming Language](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf) by Brian Kernighan
 
