@@ -18,6 +18,7 @@ Made as a project for Holberton School
 
 - [Introduction](#introduction)
 - [Description](#description)
+- [Files](#files)
 - [Features](#features)
 - [Built With](#built-with)
 - [Acknowledgments](#acknowledgments)
@@ -27,6 +28,7 @@ Made as a project for Holberton School
 The C library function int printf(const char *format, ...) sends formatted output to stdout.
 A custom made printf function built in C using only the write, malloc, free, va_start, va_copy, va__arg, and va_end non custom functions.
 
+
 ## Description
 
 The custom printf function is called using \_printf() and will take in a format string.
@@ -34,8 +36,7 @@ The custom printf function is called using \_printf() and will take in a format 
 int \_printf(const char \*format, ...);
 
 
-### Files
-
+## Files
 ---
 File|Description
 ---|---
