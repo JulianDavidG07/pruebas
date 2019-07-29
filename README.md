@@ -1,7 +1,8 @@
 <h1 align ="center"> Printf Project </h1><br>
+
 <p align="center">
 	<a href="https://holbertonschool.com">
-		<img alt="holbie" title="holbie" src="https://d1vki863cvir6c.cloudfront.net/uploads/topic/image/485/holberton_school.png" width="350">
+		<img alt="holbie" title="holbie" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png" width="350">
 	</a>
 </p>
 <p align="center">
