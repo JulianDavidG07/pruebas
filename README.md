@@ -37,7 +37,6 @@ int \_printf(const char \*format, ...);
 
 ## Files
 
----
 File|Description
 ---|---
 e | contains function for printing an address
