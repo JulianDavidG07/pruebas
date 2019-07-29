@@ -68,15 +68,14 @@ int \_printf(const char \*format, ...);
 ---
 File|Description
 ---|---
-extra_types.c | contains function for printing an address
-holberton.h | header file with all prototypes, libraries, and struct that used to identify correct function
-man_3_printf | man page for custom printf function
-print_basic_types.c | functions for printing chars, integers, and strings using %c, %s, %d, %i
-printf.c | file with main function for calling printf and iterating through format string to print correct output
-string_utility | file with functions used by strings.c to print different types of strings
-strings.c | contains functions for printing strings in rot13, reverse, or with unprinted characters represented as hexadecimal
-unsigned_type.c | file with functions for printing unsigned integer recieving conversions (unsigned, octal, hexadecimal upper and lower case)
-utility.c | file with helper functions for conversion functions
+e | contains function for printing an address
+h | header file with all prototypes, libraries, and struct that used to identify correct function
+m | man page for custom printf function
+p | functions for printing chars, integers, and strings using %c, %s, %d, %i
+s | file with functions used by strings.c to print different types of strings
+s | contains functions for printing strings in rot13, reverse, or with unprinted characters represented as hexadecimal
+u | file with functions for printing unsigned integer recieving conversions (unsigned, octal, hexadecimal upper and lower case)
+u | file with helper functions for conversion functions
 
 ## Built With
 
