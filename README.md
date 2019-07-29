@@ -10,12 +10,10 @@ Made as a project for Holberton School
 </p>
 
 ## Authors
-
 * [Juan David Marin](https://twitter.com/Teslothorcha)
 * [Julian David Gaitan](https://twitter.com/JulianDavidG07)
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Description](#description)
 - [Files](#files)
@@ -36,7 +34,9 @@ The custom printf function is called using \_printf() and will take in a format 
 int \_printf(const char \*format, ...);
 
 
+
 ## Files
+
 ---
 File|Description
 ---|---
@@ -48,6 +48,7 @@ s | file with functions used by strings.c to print different types of strings
 s | contains functions for printing strings in rot13, reverse, or with unprinted characters represented as hexadecimal
 u | file with functions for printing unsigned integer recieving conversions (unsigned, octal, hexadecimal upper and lower case)
 u | file with helper functions for conversion functions
+
 
 ## Features
 
@@ -78,6 +79,7 @@ u | file with helper functions for conversion functions
 * %X : with an integer argument, prints the hexadecimal notation with uppercase letters
 
 * %b : with an integer argument, prints the binary conversion of that integer
+
 
 ## Built With
 
