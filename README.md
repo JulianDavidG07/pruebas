@@ -33,6 +33,21 @@ The custom printf function is called using \_printf() and will take in a format 
 
 int \_printf(const char \*format, ...);
 
+
+### Files
+
+---
+File|Description
+---|---
+e | contains function for printing an address
+h | header file with all prototypes, libraries, and struct that used to identify correct function
+m | man page for custom printf function
+p | functions for printing chars, integers, and strings using %c, %s, %d, %i
+s | file with functions used by strings.c to print different types of strings
+s | contains functions for printing strings in rot13, reverse, or with unprinted characters represented as hexadecimal
+u | file with functions for printing unsigned integer recieving conversions (unsigned, octal, hexadecimal upper and lower case)
+u | file with helper functions for conversion functions
+
 ## Features
 
 * %c : with a char argument, prints that char
@@ -62,20 +77,6 @@ int \_printf(const char \*format, ...);
 * %X : with an integer argument, prints the hexadecimal notation with uppercase letters
 
 * %b : with an integer argument, prints the binary conversion of that integer
-
-### Files
-
----
-File|Description
----|---
-e | contains function for printing an address
-h | header file with all prototypes, libraries, and struct that used to identify correct function
-m | man page for custom printf function
-p | functions for printing chars, integers, and strings using %c, %s, %d, %i
-s | file with functions used by strings.c to print different types of strings
-s | contains functions for printing strings in rot13, reverse, or with unprinted characters represented as hexadecimal
-u | file with functions for printing unsigned integer recieving conversions (unsigned, octal, hexadecimal upper and lower case)
-u | file with helper functions for conversion functions
 
 ## Built With
 
